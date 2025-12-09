@@ -1,0 +1,17 @@
+anaconda navigator download
+anaconda.org 
+
+
+
+
+
+
+First we create a folder where we write a python code with is 
+
+print("mango")
+print("apple")
+print("banana")
+
+then we save file with .py extension
+
+then in terminal we change directory to this folder and then run this .py file 
