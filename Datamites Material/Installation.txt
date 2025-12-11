@@ -1,0 +1,12 @@
+Tableu Download : https://www.guru99.com/download-install-tableau.html
+
+PowerBi Download: https://www.microsoft.com/en-us/download/details.aspx?id=58494
+                  (Download PBIDesktopSetup_x64.exe  544.7 MB)
+
+Git Download: https://git-scm.com/downloads
+
+Anaconda Download: https://www.anaconda.com/download
+
+Mongodb Download: https://www.mongodb.com/try/download/community
+
+Orange Download: https://orangedatamining.com/download/
