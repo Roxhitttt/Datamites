@@ -67,8 +67,15 @@ Trigure
 
 #### CTE - Commmon Table Expression
 
+#### TCL - Transaction Control Language 
 
 
+
+create save point as OG or whatever
+
+Roll back - command which is used to undo when save point is created
+
+Commit - 
 
 
 
