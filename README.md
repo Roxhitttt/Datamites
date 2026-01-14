@@ -43,6 +43,19 @@
 Views 
 Joins 
 Index 
-WIndow function 
+
+
+#### WIndow function - 
+
+Over clause - will create window function
+
+partition by - grouping windows so we can calculating sum seperately
+
+for calculating running sum 
+
+
 City 
 Trigure 
+
+
+
