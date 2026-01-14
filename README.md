@@ -51,11 +51,25 @@ Over clause - will create window function
 
 partition by - grouping windows so we can calculating sum seperately
 
+Raw_number() - 
+
+lag() - 
+
+Rank()
+
+Dence_Rank()
+
 for calculating running sum 
 
 
 City 
 Trigure 
+
+#### CTE - Commmon Table Expression
+
+
+
+
 
 
 
